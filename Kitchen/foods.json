@@ -1,0 +1,1371 @@
+{
+  "foods": [
+    {
+      "name": "قورمه‌سبزی",
+      "materials": [
+        "Lamb",
+        "KidneyBeans",
+        "Parsley",
+        "Chives",
+        "Fenugreek",
+        "Cilantro",
+        "Onion",
+        "DriedLime",
+        "Turmeric",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "خورش قیمه",
+      "materials": [
+        "Lamb",
+        "SplitPeas",
+        "Onion",
+        "TomatoPaste",
+        "DriedLime",
+        "Potato",
+        "Turmeric",
+        "Cinnamon",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "قیمه بادمجان",
+      "materials": [
+        "Lamb",
+        "SplitPeas",
+        "Eggplant",
+        "Tomato",
+        "Onion",
+        "TomatoPaste",
+        "DriedLime",
+        "Turmeric",
+        "Salt",
+        "SunflowerOil",
+        "Water"
+      ]
+    },
+    {
+      "name": "خورش بادمجان",
+      "materials": [
+        "Lamb",
+        "Eggplant",
+        "Tomato",
+        "Onion",
+        "TomatoPaste",
+        "Verjuice",
+        "Turmeric",
+        "Salt",
+        "SunflowerOil",
+        "Water"
+      ]
+    },
+    {
+      "name": "فسنجان با مرغ",
+      "materials": [
+        "Chicken",
+        "Walnut",
+        "PomegranateMolasses",
+        "Onion",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "فسنجان با اردک",
+      "materials": [
+        "Duck",
+        "Walnut",
+        "PomegranateMolasses",
+        "Onion",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "خورش کرفس",
+      "materials": [
+        "Lamb",
+        "Celery",
+        "Mint",
+        "Parsley",
+        "Onion",
+        "Verjuice",
+        "Turmeric",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "خورش آلو اسفناج",
+      "materials": [
+        "Lamb",
+        "Spinach",
+        "DriedPlums",
+        "Onion",
+        "Turmeric",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "خورش به و آلو",
+      "materials": [
+        "Lamb",
+        "Quince",
+        "DriedPlums",
+        "Onion",
+        "TomatoPaste",
+        "Cinnamon",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "خورش هویج",
+      "materials": [
+        "Lamb",
+        "Carrot",
+        "DriedPlums",
+        "Onion",
+        "Saffron",
+        "LemonJuice",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "خورش خلال کرمانشاهی",
+      "materials": [
+        "Lamb",
+        "Almond",
+        "DriedBarberries",
+        "Onion",
+        "TomatoPaste",
+        "DriedLime",
+        "Saffron",
+        "Rosewater",
+        "Ghee",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "خورش کدو سبز",
+      "materials": [
+        "Lamb",
+        "Zucchini",
+        "Tomato",
+        "Onion",
+        "TomatoPaste",
+        "Verjuice",
+        "Turmeric",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "خورش کدو حلوایی",
+      "materials": [
+        "Chicken",
+        "Pumpkin",
+        "DriedPlums",
+        "Onion",
+        "Cinnamon",
+        "Saffron",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "خورش انار و مرغ",
+      "materials": [
+        "Chicken",
+        "Pomegranate",
+        "PomegranateMolasses",
+        "Onion",
+        "Saffron",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "غوره مسما با آبغوره",
+      "materials": [
+        "Chicken",
+        "Eggplant",
+        "Tomato",
+        "Verjuice",
+        "Onion",
+        "Turmeric",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "آلو مسما",
+      "materials": [
+        "Chicken",
+        "DriedPlums",
+        "Onion",
+        "Saffron",
+        "Turmeric",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "اناربیج",
+      "materials": [
+        "Lamb",
+        "Walnut",
+        "PomegranateMolasses",
+        "Parsley",
+        "Mint",
+        "Cilantro",
+        "Onion",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "قلیه ماهی",
+      "materials": [
+        "Whitefish",
+        "Cilantro",
+        "Fenugreek",
+        "Tamarind",
+        "Garlic",
+        "Onion",
+        "RedPepper",
+        "Turmeric",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "قلیه میگو",
+      "materials": [
+        "Shrimp",
+        "Cilantro",
+        "Fenugreek",
+        "Tamarind",
+        "Garlic",
+        "Onion",
+        "RedPepper",
+        "Turmeric",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "ترش‌تره",
+      "materials": [
+        "Spinach",
+        "Cilantro",
+        "Parsley",
+        "Dill",
+        "Rice",
+        "ChickenEgg",
+        "Garlic",
+        "Verjuice",
+        "Turmeric",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "میرزا قاسمی",
+      "materials": [
+        "Eggplant",
+        "Tomato",
+        "Garlic",
+        "ChickenEgg",
+        "Turmeric",
+        "SunflowerOil",
+        "Salt"
+      ]
+    },
+    {
+      "name": "کشک بادمجان",
+      "materials": [
+        "Eggplant",
+        "Kashk",
+        "Onion",
+        "Garlic",
+        "Mint",
+        "Walnut",
+        "Turmeric",
+        "SunflowerOil",
+        "Salt"
+      ]
+    },
+    {
+      "name": "حلیم بادمجان",
+      "materials": [
+        "Eggplant",
+        "Lamb",
+        "Lentils",
+        "Kashk",
+        "Onion",
+        "Mint",
+        "Turmeric",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "کال کباب",
+      "materials": [
+        "Eggplant",
+        "Walnut",
+        "Garlic",
+        "PomegranateMolasses",
+        "Mint",
+        "Salt"
+      ]
+    },
+    {
+      "name": "یتیمچه",
+      "materials": [
+        "Eggplant",
+        "Tomato",
+        "Onion",
+        "Potato",
+        "Turmeric",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "دال عدس جنوبی",
+      "materials": [
+        "Lentils",
+        "Potato",
+        "Garlic",
+        "Onion",
+        "TomatoPaste",
+        "Tamarind",
+        "RedPepper",
+        "Turmeric",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "عدسی",
+      "materials": [
+        "Lentils",
+        "Onion",
+        "Potato",
+        "Turmeric",
+        "BlackPepper",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "خوراک لوبیا چیتی",
+      "materials": [
+        "PintoBeans",
+        "Onion",
+        "TomatoPaste",
+        "Potato",
+        "LemonJuice",
+        "BlackPepper",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "آبگوشت",
+      "materials": [
+        "Lamb",
+        "Chickpeas",
+        "WhiteBeans",
+        "Potato",
+        "Tomato",
+        "Onion",
+        "DriedLime",
+        "Turmeric",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "آبگوشت کشک",
+      "materials": [
+        "Lamb",
+        "Chickpeas",
+        "WhiteBeans",
+        "Potato",
+        "Kashk",
+        "Onion",
+        "Garlic",
+        "Mint",
+        "Turmeric",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "تاس‌کباب",
+      "materials": [
+        "Lamb",
+        "Onion",
+        "Potato",
+        "Carrot",
+        "Tomato",
+        "DriedPlums",
+        "Turmeric",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "جوجه‌کباب زعفرانی",
+      "materials": [
+        "Chicken",
+        "Onion",
+        "LemonJuice",
+        "Saffron",
+        "Yogurt",
+        "Butter",
+        "Salt"
+      ]
+    },
+    {
+      "name": "کباب کوبیده",
+      "materials": [
+        "Lamb",
+        "Onion",
+        "Salt",
+        "BlackPepper"
+      ]
+    },
+    {
+      "name": "کباب برگ",
+      "materials": [
+        "Lamb",
+        "Onion",
+        "Saffron",
+        "Butter",
+        "Salt",
+        "BlackPepper"
+      ]
+    },
+    {
+      "name": "کباب چنجه",
+      "materials": [
+        "Lamb",
+        "Onion",
+        "Yogurt",
+        "LemonJuice",
+        "BlackPepper",
+        "Salt"
+      ]
+    },
+    {
+      "name": "کباب ترش",
+      "materials": [
+        "Lamb",
+        "Walnut",
+        "PomegranateMolasses",
+        "Garlic",
+        "Parsley",
+        "OliveOil",
+        "Salt"
+      ]
+    },
+    {
+      "name": "کباب تابه‌ای",
+      "materials": [
+        "Lamb",
+        "Onion",
+        "Tomato",
+        "Sumac",
+        "Turmeric",
+        "BlackPepper",
+        "Salt",
+        "SunflowerOil"
+      ]
+    },
+    {
+      "name": "کباب دیگی",
+      "materials": [
+        "Lamb",
+        "Onion",
+        "Tomato",
+        "Potato",
+        "Turmeric",
+        "BlackPepper",
+        "Salt",
+        "Butter",
+        "Water"
+      ]
+    },
+    {
+      "name": "شامی لپه",
+      "materials": [
+        "Lamb",
+        "SplitPeas",
+        "Onion",
+        "ChickenEgg",
+        "Turmeric",
+        "BlackPepper",
+        "Salt",
+        "SunflowerOil",
+        "Water"
+      ]
+    },
+    {
+      "name": "کتلت گوشت",
+      "materials": [
+        "Lamb",
+        "Potato",
+        "Onion",
+        "ChickenEgg",
+        "Turmeric",
+        "BlackPepper",
+        "SunflowerOil",
+        "Salt"
+      ]
+    },
+    {
+      "name": "کوفته تبریزی",
+      "materials": [
+        "Lamb",
+        "SplitPeas",
+        "Rice",
+        "ChickenEgg",
+        "Onion",
+        "Chives",
+        "Savory",
+        "Tarragon",
+        "DriedPlums",
+        "Walnut",
+        "TomatoPaste",
+        "Turmeric",
+        "Salt",
+        "Water",
+        "SunflowerOil"
+      ]
+    },
+    {
+      "name": "کوفته برنجی",
+      "materials": [
+        "Lamb",
+        "Rice",
+        "SplitPeas",
+        "Onion",
+        "Parsley",
+        "Chives",
+        "Tarragon",
+        "TomatoPaste",
+        "Turmeric",
+        "Salt",
+        "Water",
+        "SunflowerOil"
+      ]
+    },
+    {
+      "name": "کوفته هویج",
+      "materials": [
+        "Lamb",
+        "Carrot",
+        "ChickpeaFlour",
+        "Onion",
+        "TomatoPaste",
+        "LemonJuice",
+        "Turmeric",
+        "Salt",
+        "SunflowerOil",
+        "Water"
+      ]
+    },
+    {
+      "name": "دلمه برگ مو",
+      "materials": [
+        "GrapeLeaf",
+        "Rice",
+        "SplitPeas",
+        "Lamb",
+        "Onion",
+        "Dill",
+        "Mint",
+        "Parsley",
+        "Tarragon",
+        "Vinegar",
+        "Sugar",
+        "Salt",
+        "SunflowerOil",
+        "Water"
+      ]
+    },
+    {
+      "name": "دلمه فلفل دلمه‌ای",
+      "materials": [
+        "BellPepper",
+        "Rice",
+        "Lamb",
+        "SplitPeas",
+        "Onion",
+        "Parsley",
+        "Tarragon",
+        "TomatoPaste",
+        "Turmeric",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "دلمه کلم",
+      "materials": [
+        "WhiteCabbage",
+        "Rice",
+        "Lamb",
+        "SplitPeas",
+        "Onion",
+        "Dill",
+        "Parsley",
+        "TomatoPaste",
+        "Vinegar",
+        "Salt",
+        "SunflowerOil",
+        "Water"
+      ]
+    },
+    {
+      "name": "دلمه بادمجان",
+      "materials": [
+        "Eggplant",
+        "Lamb",
+        "Rice",
+        "SplitPeas",
+        "Onion",
+        "Parsley",
+        "Mint",
+        "TomatoPaste",
+        "Salt",
+        "SunflowerOil",
+        "Water"
+      ]
+    },
+    {
+      "name": "زرشک‌پلو با مرغ",
+      "materials": [
+        "Rice",
+        "Chicken",
+        "DriedBarberries",
+        "Onion",
+        "TomatoPaste",
+        "Saffron",
+        "Butter",
+        "Sugar",
+        "Turmeric",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "باقالی‌پلو با ماهیچه",
+      "materials": [
+        "Rice",
+        "FavaBeans",
+        "Dill",
+        "Lamb",
+        "Onion",
+        "Saffron",
+        "Butter",
+        "BlackPepper",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "سبزی‌پلو با ماهی",
+      "materials": [
+        "Rice",
+        "Whitefish",
+        "Parsley",
+        "Cilantro",
+        "Dill",
+        "Chives",
+        "Garlic",
+        "LemonJuice",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "عدس‌پلو",
+      "materials": [
+        "Rice",
+        "Lentils",
+        "Raisins",
+        "Onion",
+        "Cinnamon",
+        "Turmeric",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "لوبیاپلوی چشم‌بلبلی",
+      "materials": [
+        "Rice",
+        "BlackEyedPeas",
+        "Dill",
+        "Butter",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "ماش‌پلو",
+      "materials": [
+        "Rice",
+        "MungBeans",
+        "Onion",
+        "Cumin",
+        "Turmeric",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "کلم‌پلوی شیرازی با کلم برگ",
+      "materials": [
+        "Rice",
+        "WhiteCabbage",
+        "Lamb",
+        "Onion",
+        "Basil",
+        "Dill",
+        "Tarragon",
+        "Chives",
+        "ChickpeaFlour",
+        "Turmeric",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "استانبولی‌پلو",
+      "materials": [
+        "Rice",
+        "Potato",
+        "Tomato",
+        "Onion",
+        "TomatoPaste",
+        "Turmeric",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "هویج‌پلو",
+      "materials": [
+        "Rice",
+        "Carrot",
+        "Chicken",
+        "Onion",
+        "Saffron",
+        "Sugar",
+        "Butter",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "شیرین‌پلو",
+      "materials": [
+        "Rice",
+        "Orange",
+        "Carrot",
+        "Almond",
+        "Pistachio",
+        "Sugar",
+        "Chicken",
+        "Onion",
+        "Saffron",
+        "Butter",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "مرصع‌پلو",
+      "materials": [
+        "Rice",
+        "Chicken",
+        "Onion",
+        "Orange",
+        "Almond",
+        "Pistachio",
+        "Raisins",
+        "DriedBarberries",
+        "Saffron",
+        "Sugar",
+        "Butter",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "قیمه‌نثار",
+      "materials": [
+        "Rice",
+        "Lamb",
+        "Onion",
+        "TomatoPaste",
+        "Almond",
+        "Pistachio",
+        "DriedBarberries",
+        "Orange",
+        "Saffron",
+        "Cardamom",
+        "Cinnamon",
+        "Butter",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "میگوپلوی جنوبی",
+      "materials": [
+        "Rice",
+        "Shrimp",
+        "Onion",
+        "Cilantro",
+        "Garlic",
+        "TomatoPaste",
+        "Turmeric",
+        "RedPepper",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "دمپختک باقالی",
+      "materials": [
+        "Rice",
+        "FavaBeans",
+        "Onion",
+        "Turmeric",
+        "Butter",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "ته‌چین مرغ",
+      "materials": [
+        "Rice",
+        "Chicken",
+        "Yogurt",
+        "EggYolk",
+        "Saffron",
+        "Onion",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "ته‌چین بادمجان",
+      "materials": [
+        "Rice",
+        "Eggplant",
+        "Yogurt",
+        "EggYolk",
+        "Saffron",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "زیره‌پلوی کرمانی",
+      "materials": [
+        "Rice",
+        "Cumin",
+        "Butter",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "چلو ساده",
+      "materials": [
+        "Rice",
+        "Salt",
+        "Water",
+        "Butter"
+      ]
+    },
+    {
+      "name": "کته گوجه",
+      "materials": [
+        "Rice",
+        "Tomato",
+        "Butter",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "شله ماش",
+      "materials": [
+        "MungBeans",
+        "Rice",
+        "Turnip",
+        "Onion",
+        "Turmeric",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "آش جو",
+      "materials": [
+        "Barley",
+        "Chickpeas",
+        "PintoBeans",
+        "Lentils",
+        "Parsley",
+        "Cilantro",
+        "Spinach",
+        "Chives",
+        "Kashk",
+        "Onion",
+        "Mint",
+        "Salt",
+        "Turmeric",
+        "SunflowerOil",
+        "Water"
+      ]
+    },
+    {
+      "name": "آش انار",
+      "materials": [
+        "Rice",
+        "SplitPeas",
+        "Pomegranate",
+        "PomegranateMolasses",
+        "Parsley",
+        "Cilantro",
+        "Mint",
+        "Onion",
+        "Turmeric",
+        "Salt",
+        "SunflowerOil",
+        "Water"
+      ]
+    },
+    {
+      "name": "آش دوغ",
+      "materials": [
+        "Yogurt",
+        "Water",
+        "Chickpeas",
+        "Rice",
+        "ChickenEgg",
+        "Cilantro",
+        "Dill",
+        "Garlic",
+        "Salt"
+      ]
+    },
+    {
+      "name": "آش ماست",
+      "materials": [
+        "Yogurt",
+        "Rice",
+        "Chickpeas",
+        "Spinach",
+        "Cilantro",
+        "Dill",
+        "Onion",
+        "Mint",
+        "Turmeric",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "آش شله‌قلمکار",
+      "materials": [
+        "Lamb",
+        "Rice",
+        "Wheat",
+        "Chickpeas",
+        "WhiteBeans",
+        "Lentils",
+        "Parsley",
+        "Cilantro",
+        "Chives",
+        "Spinach",
+        "Onion",
+        "Turmeric",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "حلیم گندم",
+      "materials": [
+        "Wheat",
+        "Turkey",
+        "Onion",
+        "Salt",
+        "Cinnamon",
+        "Ghee",
+        "Water"
+      ]
+    },
+    {
+      "name": "سوپ جو با شیر",
+      "materials": [
+        "Barley",
+        "Milk",
+        "ChickenStock",
+        "Carrot",
+        "ButtonMushroom",
+        "Butter",
+        "Parsley",
+        "Salt",
+        "BlackPepper"
+      ]
+    },
+    {
+      "name": "سوپ جو قرمز",
+      "materials": [
+        "Barley",
+        "ChickenStock",
+        "Carrot",
+        "Onion",
+        "TomatoPaste",
+        "Parsley",
+        "LemonJuice",
+        "Salt",
+        "BlackPepper"
+      ]
+    },
+    {
+      "name": "اشکنه پیاز",
+      "materials": [
+        "Onion",
+        "ChickenEgg",
+        "WheatFlour",
+        "Fenugreek",
+        "Potato",
+        "Turmeric",
+        "SunflowerOil",
+        "Salt",
+        "Water"
+      ]
+    },
+    {
+      "name": "اشکنه کشک",
+      "materials": [
+        "Kashk",
+        "Onion",
+        "Garlic",
+        "Mint",
+        "Walnut",
+        "SunflowerOil",
+        "Water"
+      ]
+    },
+    {
+      "name": "کوکو سبزی",
+      "materials": [
+        "ChickenEgg",
+        "Parsley",
+        "Cilantro",
+        "Dill",
+        "Chives",
+        "Walnut",
+        "DriedBarberries",
+        "Turmeric",
+        "Salt",
+        "SunflowerOil"
+      ]
+    },
+    {
+      "name": "کوکو سیب‌زمینی",
+      "materials": [
+        "Potato",
+        "ChickenEgg",
+        "Turmeric",
+        "Salt",
+        "BlackPepper",
+        "SunflowerOil"
+      ]
+    },
+    {
+      "name": "کوکو کدو سبز",
+      "materials": [
+        "Zucchini",
+        "ChickenEgg",
+        "Onion",
+        "WheatFlour",
+        "Turmeric",
+        "Salt",
+        "SunflowerOil"
+      ]
+    },
+    {
+      "name": "کوکو بادمجان",
+      "materials": [
+        "Eggplant",
+        "ChickenEgg",
+        "Onion",
+        "Garlic",
+        "Turmeric",
+        "Salt",
+        "SunflowerOil"
+      ]
+    },
+    {
+      "name": "کوکو گل‌کلم",
+      "materials": [
+        "Cauliflower",
+        "ChickenEgg",
+        "Onion",
+        "Turmeric",
+        "Salt",
+        "BlackPepper",
+        "SunflowerOil"
+      ]
+    },
+    {
+      "name": "نرگسی اسفناج",
+      "materials": [
+        "Spinach",
+        "ChickenEgg",
+        "Onion",
+        "Garlic",
+        "Turmeric",
+        "BlackPepper",
+        "Salt",
+        "SunflowerOil"
+      ]
+    },
+    {
+      "name": "املت گوجه‌فرنگی",
+      "materials": [
+        "Tomato",
+        "ChickenEgg",
+        "Butter",
+        "Salt",
+        "BlackPepper"
+      ]
+    },
+    {
+      "name": "خاگینه تبریزی",
+      "materials": [
+        "ChickenEgg",
+        "WheatFlour",
+        "Yogurt",
+        "BakingPowder",
+        "Sugar",
+        "Rosewater",
+        "Saffron",
+        "Water",
+        "SunflowerOil"
+      ]
+    },
+    {
+      "name": "آب‌دوغ‌خیار",
+      "materials": [
+        "Yogurt",
+        "Water",
+        "Cucumber",
+        "Walnut",
+        "Raisins",
+        "Mint",
+        "Basil",
+        "Dill",
+        "Salt"
+      ]
+    },
+    {
+      "name": "ماست و خیار",
+      "materials": [
+        "Yogurt",
+        "Cucumber",
+        "Mint",
+        "Salt"
+      ]
+    },
+    {
+      "name": "بورانی اسفناج",
+      "materials": [
+        "Spinach",
+        "Yogurt",
+        "Garlic",
+        "Salt",
+        "BlackPepper"
+      ]
+    },
+    {
+      "name": "بورانی بادمجان",
+      "materials": [
+        "Eggplant",
+        "Yogurt",
+        "Garlic",
+        "Salt"
+      ]
+    },
+    {
+      "name": "سالاد شیرازی",
+      "materials": [
+        "Cucumber",
+        "Tomato",
+        "Onion",
+        "Verjuice",
+        "Mint",
+        "Salt"
+      ]
+    },
+    {
+      "name": "ماست و موسیر",
+      "materials": [
+        "Yogurt",
+        "Shallot",
+        "Salt"
+      ]
+    },
+    {
+      "name": "شله‌زرد",
+      "materials": [
+        "Rice",
+        "Water",
+        "Sugar",
+        "Saffron",
+        "Rosewater",
+        "Almond",
+        "Butter",
+        "Cinnamon"
+      ]
+    },
+    {
+      "name": "شیربرنج",
+      "materials": [
+        "Rice",
+        "Milk",
+        "Water",
+        "Rosewater",
+        "Sugar"
+      ]
+    },
+    {
+      "name": "فرنی آرد برنج",
+      "materials": [
+        "RiceFlour",
+        "Milk",
+        "Sugar",
+        "Rosewater"
+      ]
+    },
+    {
+      "name": "کاچی",
+      "materials": [
+        "WheatFlour",
+        "Ghee",
+        "Sugar",
+        "Saffron",
+        "Rosewater",
+        "Cardamom",
+        "Water"
+      ]
+    },
+    {
+      "name": "حلوای زعفرانی",
+      "materials": [
+        "WheatFlour",
+        "SunflowerOil",
+        "Butter",
+        "Sugar",
+        "Saffron",
+        "Rosewater",
+        "Water"
+      ]
+    },
+    {
+      "name": "رنگینک",
+      "materials": [
+        "DriedDates",
+        "Walnut",
+        "WheatFlour",
+        "Butter",
+        "Cinnamon",
+        "Cardamom"
+      ]
+    },
+    {
+      "name": "مسقطی",
+      "materials": [
+        "WheatStarch",
+        "Water",
+        "Sugar",
+        "Rosewater",
+        "Saffron",
+        "Butter",
+        "Pistachio"
+      ]
+    },
+    {
+      "name": "نان برنجی کرمانشاهی",
+      "materials": [
+        "RiceFlour",
+        "PowderedSugar",
+        "Ghee",
+        "EggYolk",
+        "Rosewater",
+        "Cardamom"
+      ]
+    },
+    {
+      "name": "شیرینی نخودچی",
+      "materials": [
+        "ChickpeaFlour",
+        "PowderedSugar",
+        "Ghee",
+        "Cardamom",
+        "Pistachio"
+      ]
+    }
+  ]
+}
